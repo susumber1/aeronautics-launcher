@@ -1,0 +1,14 @@
+{
+  "version": "2.3.1",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.247",
+  "source_modpack": "All of Create Aeronautics v2.3",
+  "client_mods": 222,
+  "hmcl": {
+    "version": "3.16.4",
+    "url": "https://github.com/HMCL-dev/HMCL/releases/download/v3.16.4/HMCL-3.16.4.jar",
+    "sha256": "98f0123f38e86a606aa583f74d21ae74128679e921ea7ec0c43ab26303767e9e"
+  },
+  "tested_platform": "macOS Apple Silicon",
+  "windows_runtime_tested": false
+}

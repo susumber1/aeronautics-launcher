@@ -1,0 +1,14 @@
+dist/
+.build/
+*.jar
+*.zip
+*.class
+__pycache__/
+.DS_Store
+server-address.txt
+.minecraft/
+.hmcl/
+hmcl-home/
+runtime/
+accounts.json
+*.log

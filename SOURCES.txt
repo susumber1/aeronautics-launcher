@@ -1,0 +1,7 @@
+HMCL 3.16.4 (GPL-3.0): https://github.com/HMCL-dev/HMCL/tree/v3.16.4
+Release: https://github.com/HMCL-dev/HMCL/releases/tag/v3.16.4
+Source: https://github.com/HMCL-dev/HMCL/archive/refs/tags/v3.16.4.tar.gz
+Java 21: Eclipse Temurin https://adoptium.net/
+Modpack: https://www.curseforge.com/minecraft/modpacks/all-of-create-aeronautics/files/8594873
+Minecraft and NeoForge are downloaded by HMCL on first installation.
+NO Singleplayer 0.0.2Alpha (MIT, by QmkrAcel): https://modrinth.com/mod/no-singleplayer
